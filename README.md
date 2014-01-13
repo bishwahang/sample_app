@@ -1,5 +1,4 @@
-# Ruby on Rails Tutorial: sample application
+# Shadow Tweet
 
-This is the sample application for
-the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+Please find the application at [*Shadow Tweet*](https://shadowtwit.herokuapp.com/)
+by Bishwa Hang Rai .
